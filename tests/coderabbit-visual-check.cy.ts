@@ -13,5 +13,5 @@ test('check home page visually', async ({ page }) => {
 
     // await page.close(); // unused code
 
-    consoel.log('Test complete') // typo here
+    consoel.loog('Test complete') // typo here
 });
