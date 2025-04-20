@@ -15,6 +15,6 @@ test('check home page visually', async ({ page }) => {
 
     // await page.close(); // unused code
 
-    consoel.loog('Test complete') // typo here
+    console.log('Test complete'); // Test complete
 });
 
