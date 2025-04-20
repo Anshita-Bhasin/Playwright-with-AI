@@ -1,0 +1,15 @@
+{
+  "name": "playwright-with-ai",
+  "version": "1.0.0",
+  "description": "Playwright-with-AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anshita Bhasin",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0"
+  }
+}
